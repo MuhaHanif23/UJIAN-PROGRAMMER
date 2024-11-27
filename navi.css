@@ -1,0 +1,9 @@
+ body h3 {text-align: center;}
+ body h2 {text-align: center;}
+ <style>
+    .box {
+      width: 300px;
+      height: 200px;
+      background-color: lightblue;
+      padding-top: 50px; /* Menurunkan konten ke bawah dengan ruang 50px di atasnya */
+    }
